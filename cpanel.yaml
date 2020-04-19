@@ -1,0 +1,3 @@
+﻿deployment:
+    tasks:
+        - 'export DEPLOYPATH=/repositories/Loves-PC-Repair-Shop/'
